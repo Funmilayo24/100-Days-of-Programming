@@ -10,7 +10,7 @@ Web Development: HTML, CSS, JavaScript, and frameworks like Flask.
 APIs & Web Scraping: How to interact with external data.
 Automation: Using Python to automate everyday tasks.
 Building Projects: From scripts to full web apps.
-Join me on this journey as we explore coding through real-world examples and hands-on projects!
+Join me on this journey as we explore coding through real-world examples and hands-on projects! https://www.youtube.com/playlist?list=PLYpbyhsnSabD6nKl1RvT40VDVOa2ATl_A
 
 How to Follow Along:
 Subscribe to the channel and check out new daily videos.
